@@ -4,54 +4,14 @@
   "name_sptag": "Girls Eyes Red",
   "total_img": 12697,
   "total_page": 28,
-  "hc_lt_alb": "-1626876990",
+  "hc_lt_alb": "-1645361268",
   "hc_lt_data_img": "429171053",
   "hc_lt_nortag": "",
-  "hc_lt_sptag": "1716775230",
+  "hc_lt_sptag": "-563917934",
   "lt_alb": [
     {
-      "id_alb": "68811063",
-      "name_alb": "Girls",
-      "total_img": 68557
-    },
-    {
-      "id_alb": "1612679813",
-      "name_alb": "Sakurasou No Pet Na Kanojo 2020",
-      "total_img": 59
-    },
-    {
-      "id_alb": "100137212",
-      "name_alb": "Tensei shitara slime -That Time I Got Reincarnated as a Slime 2019 -2020",
-      "total_img": 89
-    },
-    {
-      "id_alb": "-1789716255",
-      "name_alb": "Kimetsu No Yaiba",
-      "total_img": 402
-    },
-    {
-      "id_alb": "57904715",
-      "name_alb": "Tokyo Ghoul",
-      "total_img": 279
-    },
-    {
-      "id_alb": "-1155187127",
-      "name_alb": "Kaguyasama wa Kokurasetai",
-      "total_img": 126
-    },
-    {
-      "id_alb": "-764136887",
-      "name_alb": "Sangai Senki",
-      "total_img": 4
-    },
-    {
-      "id_alb": "2063906744",
-      "name_alb": "Sankarea",
-      "total_img": 11
-    },
-    {
-      "id_alb": "1897169568",
-      "name_alb": "SchoolLive",
+      "id_alb": "-37341044",
+      "name_alb": "THE iDOLMSTER Million Live",
       "total_img": 21
     },
     {
@@ -60,39 +20,54 @@
       "total_img": 16
     },
     {
-      "id_alb": "2132686826",
-      "name_alb": "Seraph of the End",
-      "total_img": 35
+      "id_alb": "1759133018",
+      "name_alb": "The Ryuos Work is Never Done",
+      "total_img": 7
     },
     {
-      "id_alb": "115411257",
-      "name_alb": "Sergestid Shrimp In TungKang",
-      "total_img": 6
+      "id_alb": "1897169568",
+      "name_alb": "SchoolLive",
+      "total_img": 21
     },
     {
-      "id_alb": "353906178",
-      "name_alb": "Shakugan No Shana",
-      "total_img": 66
-    },
-    {
-      "id_alb": "310155985",
-      "name_alb": "ShangriLa",
+      "id_alb": "-764136887",
+      "name_alb": "Sangai Senki",
       "total_img": 4
     },
     {
-      "id_alb": "-572566331",
-      "name_alb": "Shelter",
-      "total_img": 35
-    },
-    {
-      "id_alb": "-879728811",
-      "name_alb": "Shrine Maiden",
-      "total_img": 2
+      "id_alb": "-1019582432",
+      "name_alb": "Sword Art Online Alternative Gun Gale Online",
+      "total_img": 31
     },
     {
       "id_alb": "-1577234996",
       "name_alb": "Shukufuku no Campanella",
       "total_img": 20
+    },
+    {
+      "id_alb": "-1155187127",
+      "name_alb": "Kaguyasama wa Kokurasetai",
+      "total_img": 126
+    },
+    {
+      "id_alb": "1510895560",
+      "name_alb": "The iDOLMSTER Cinderella Girls",
+      "total_img": 274
+    },
+    {
+      "id_alb": "1612679813",
+      "name_alb": "Sakurasou No Pet Na Kanojo 2020",
+      "total_img": 59
+    },
+    {
+      "id_alb": "-1789716255",
+      "name_alb": "Kimetsu No Yaiba",
+      "total_img": 402
+    },
+    {
+      "id_alb": "115411257",
+      "name_alb": "Sergestid Shrimp In TungKang",
+      "total_img": 6
     },
     {
       "id_alb": "1625686729",
@@ -105,39 +80,19 @@
       "total_img": 5
     },
     {
-      "id_alb": "1564409928",
-      "name_alb": "Super Sonico",
-      "total_img": 12
+      "id_alb": "-572566331",
+      "name_alb": "Shelter",
+      "total_img": 35
     },
     {
-      "id_alb": "-1019582432",
-      "name_alb": "Sword Art Online Alternative Gun Gale Online",
-      "total_img": 31
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
     },
     {
-      "id_alb": "122373886",
-      "name_alb": "Sword Art Online Movie Ordinal Scale",
-      "total_img": 63
-    },
-    {
-      "id_alb": "378814552",
-      "name_alb": "Tasogare Otome x Amnesia",
-      "total_img": 4
-    },
-    {
-      "id_alb": "1948004981",
-      "name_alb": "The Idolmaster Cinderella Girls Starlight Stage",
-      "total_img": 115
-    },
-    {
-      "id_alb": "1510895560",
-      "name_alb": "The iDOLMSTER Cinderella Girls",
-      "total_img": 274
-    },
-    {
-      "id_alb": "-37341044",
-      "name_alb": "THE iDOLMSTER Million Live",
-      "total_img": 21
+      "id_alb": "353906178",
+      "name_alb": "Shakugan No Shana",
+      "total_img": 66
     },
     {
       "id_alb": "-342616460",
@@ -150,14 +105,59 @@
       "total_img": 36
     },
     {
-      "id_alb": "1759133018",
-      "name_alb": "The Ryuos Work is Never Done",
-      "total_img": 7
+      "id_alb": "378814552",
+      "name_alb": "Tasogare Otome x Amnesia",
+      "total_img": 4
+    },
+    {
+      "id_alb": "2132686826",
+      "name_alb": "Seraph of the End",
+      "total_img": 35
     },
     {
       "id_alb": "-1877681132",
       "name_alb": "To Aru Kagaku No Railgun",
       "total_img": 149
+    },
+    {
+      "id_alb": "310155985",
+      "name_alb": "ShangriLa",
+      "total_img": 4
+    },
+    {
+      "id_alb": "2063906744",
+      "name_alb": "Sankarea",
+      "total_img": 11
+    },
+    {
+      "id_alb": "100137212",
+      "name_alb": "Tensei shitara slime -That Time I Got Reincarnated as a Slime 2019 -2020",
+      "total_img": 89
+    },
+    {
+      "id_alb": "-879728811",
+      "name_alb": "Shrine Maiden",
+      "total_img": 2
+    },
+    {
+      "id_alb": "57904715",
+      "name_alb": "Tokyo Ghoul",
+      "total_img": 279
+    },
+    {
+      "id_alb": "1564409928",
+      "name_alb": "Super Sonico",
+      "total_img": 12
+    },
+    {
+      "id_alb": "122373886",
+      "name_alb": "Sword Art Online Movie Ordinal Scale",
+      "total_img": 63
+    },
+    {
+      "id_alb": "1948004981",
+      "name_alb": "The Idolmaster Cinderella Girls Starlight Stage",
+      "total_img": 115
     }
   ],
   "lt_data_img": [
@@ -11067,180 +11067,6 @@
   ],
   "lt_sptag": [
     {
-      "id_sptag": "-154622774",
-      "key_sptag": "isGirlHairBlackAnime",
-      "name_sptag": "Girls Hair Black",
-      "total": 16737
-    },
-    {
-      "id_sptag": "-120608061",
-      "key_sptag": "isGirlHairOrangeAnime",
-      "name_sptag": "Girls Hair Orange",
-      "total": 4128
-    },
-    {
-      "id_sptag": "936615491",
-      "key_sptag": "isGirlEyesOrangeAnime",
-      "name_sptag": "Girls Eyes Orange",
-      "total": 3828
-    },
-    {
-      "id_sptag": "891390002",
-      "key_sptag": "isGirlStudentAnime",
-      "name_sptag": "Girls Student",
-      "total": 16308
-    },
-    {
-      "id_sptag": "154003721",
-      "key_sptag": "isGirlHairYellowAnime",
-      "name_sptag": "Girls Hair Yellow",
-      "total": 12651
-    },
-    {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
-    },
-    {
-      "id_sptag": "-1364967268",
-      "key_sptag": "isGirlEyesRedAnime",
-      "name_sptag": "Girls Eyes Red",
-      "total": 12697
-    },
-    {
-      "id_sptag": "1211227273",
-      "key_sptag": "isGirlEyesYellowAnime",
-      "name_sptag": "Girls Eyes Yellow",
-      "total": 6605
-    },
-    {
-      "id_sptag": "-143380300",
-      "key_sptag": "isGirlHairGreyAnime",
-      "name_sptag": "Girls Hair Grey",
-      "total": 9239
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
-    {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
-    },
-    {
-      "id_sptag": "-1783086774",
-      "key_sptag": "isGirlEyesBlackAnime",
-      "name_sptag": "Girls Eyes Black",
-      "total": 5810
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
-    },
-    {
-      "id_sptag": "-1782893951",
-      "key_sptag": "isGirlEyesBrownAnime",
-      "name_sptag": "Girls Eyes Brown",
-      "total": 9376
-    },
-    {
-      "id_sptag": "-143534545",
-      "key_sptag": "isGirlHairBlueAnime",
-      "name_sptag": "Girls Hair Blue",
-      "total": 9528
-    },
-    {
-      "id_sptag": "-143162340",
-      "key_sptag": "isGirlHairRedAnime",
-      "name_sptag": "Girls Hair Red",
-      "total": 3081
-    },
-    {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
-    },
-    {
-      "id_sptag": "-143528947",
-      "key_sptag": "isGirlHairBrownAnime",
-      "name_sptag": "Girls Hair Brow",
-      "total": 13760
-    },
-    {
-      "id_sptag": "71899412",
-      "key_sptag": "isGirlHairVioletAnime",
-      "name_sptag": "Girls Hair Violet",
-      "total": 2650
-    },
-    {
-      "id_sptag": "1129122964",
-      "key_sptag": "isGirlEyesVioletAnime",
-      "name_sptag": "Girls Eyes Violet",
-      "total": 6410
-    },
-    {
-      "id_sptag": "82870",
-      "key_sptag": "isSad",
-      "name_sptag": "Sad",
-      "total": 12057
-    },
-    {
-      "id_sptag": "126637389",
-      "key_sptag": "isGirlSadAnime",
-      "name_sptag": "Girls Sad",
-      "total": 10506
-    },
-    {
-      "id_sptag": "1440489992",
-      "key_sptag": "isGirlTearsAnime",
-      "name_sptag": "Girls Tears",
-      "total": 1511
-    },
-    {
-      "id_sptag": "-369386728",
-      "key_sptag": "isGirlMaidAnime",
-      "name_sptag": "Girls Maid",
-      "total": 2625
-    },
-    {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
-    },
-    {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
-    },
-    {
-      "id_sptag": "635632331",
-      "key_sptag": "isGirlEyesPinkAnime",
-      "name_sptag": "Girls Eyes Pink",
-      "total": 1874
-    },
-    {
-      "id_sptag": "1371605601",
-      "key_sptag": "isGirlHoodieAnime",
-      "name_sptag": "Girls Hoodie",
-      "total": 2667
-    },
-    {
-      "id_sptag": "1434519004",
-      "key_sptag": "isGirMusicAnime",
-      "name_sptag": "Girls Music",
-      "total": 1611
-    },
-    {
       "id_sptag": "1439506876",
       "key_sptag": "isGirlScarfAnime",
       "name_sptag": "Girls Scarf",
@@ -11253,46 +11079,10 @@
       "total": 11965
     },
     {
-      "id_sptag": "-298695861",
-      "key_sptag": "isGirlWeddingAnime",
-      "name_sptag": "Girls Wedding",
-      "total": 2328
-    },
-    {
-      "id_sptag": "-1743477818",
-      "key_sptag": "isGirlWaterRainAnime",
-      "name_sptag": "Girls Water Rain",
-      "total": 2954
-    },
-    {
-      "id_sptag": "-14067806",
-      "key_sptag": "isGirlHairSilverAnime",
-      "name_sptag": "Girls Hair Silver",
-      "total": 16300
-    },
-    {
-      "id_sptag": "679383692",
-      "key_sptag": "isGirlKimonoAnime",
-      "name_sptag": "Girls Kimono Yukata Cheongsam",
-      "total": 7942
-    },
-    {
-      "id_sptag": "-1415763167",
-      "key_sptag": "isGirlGlassesAnime",
-      "name_sptag": "Girls Glasses",
-      "total": 2385
-    },
-    {
       "id_sptag": "-564636969",
       "key_sptag": "isGirlSharpCanineToothAnime",
       "name_sptag": "Girls Sharp Canine Tooth",
       "total": 3202
-    },
-    {
-      "id_sptag": "-271320563",
-      "key_sptag": "isGirlFaceMasksAnime",
-      "name_sptag": "Girls Face Masks",
-      "total": 1618
     },
     {
       "id_sptag": "-369654561",
@@ -11301,40 +11091,40 @@
       "total": 3468
     },
     {
-      "id_sptag": "-1436512555",
-      "key_sptag": "isDarkBlack",
-      "name_sptag": "Dark Black",
-      "total": 4051
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
     },
     {
-      "id_sptag": "410439701",
-      "key_sptag": "isGirlEarsNekoAnime",
-      "name_sptag": "Girls Ears Neko",
-      "total": 7031
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
     },
     {
-      "id_sptag": "1443397502",
-      "key_sptag": "isGirlWitchAnime",
-      "name_sptag": "Girls Witch",
-      "total": 8338
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
     },
     {
-      "id_sptag": "-135339788",
-      "key_sptag": "isGirlHairWhiteAnime",
-      "name_sptag": "Girls Hair White",
-      "total": 8666
+      "id_sptag": "936615491",
+      "key_sptag": "isGirlEyesOrangeAnime",
+      "name_sptag": "Girls Eyes Orange",
+      "total": 3828
     },
     {
-      "id_sptag": "-369402967",
-      "key_sptag": "isGirlLoli",
-      "name_sptag": "Girls Loli",
-      "total": 2098
+      "id_sptag": "1440489992",
+      "key_sptag": "isGirlTearsAnime",
+      "name_sptag": "Girls Tears",
+      "total": 1511
     },
     {
-      "id_sptag": "1429721863",
-      "key_sptag": "isGirlHornsAnime",
-      "name_sptag": "Girls Horns",
-      "total": 2031
+      "id_sptag": "-1783086774",
+      "key_sptag": "isGirlEyesBlackAnime",
+      "name_sptag": "Girls Eyes Black",
+      "total": 5810
     },
     {
       "id_sptag": "-143120565",
@@ -11343,10 +11133,52 @@
       "total": 5690
     },
     {
-      "id_sptag": "-1786946560",
-      "key_sptag": "isGirlHair2ColorAnime",
-      "name_sptag": "Girls Hair 2 Color",
-      "total": 1686
+      "id_sptag": "1371605601",
+      "key_sptag": "isGirlHoodieAnime",
+      "name_sptag": "Girls Hoodie",
+      "total": 2667
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
+    },
+    {
+      "id_sptag": "-369402967",
+      "key_sptag": "isGirlLoli",
+      "name_sptag": "Girls Loli",
+      "total": 2098
+    },
+    {
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
+    },
+    {
+      "id_sptag": "635632331",
+      "key_sptag": "isGirlEyesPinkAnime",
+      "name_sptag": "Girls Eyes Pink",
+      "total": 1874
+    },
+    {
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
     },
     {
       "id_sptag": "922212480",
@@ -11355,10 +11187,88 @@
       "total": 656
     },
     {
-      "id_sptag": "-369710484",
-      "key_sptag": "isGirlBellAnime",
-      "name_sptag": "Girls Bell",
-      "total": 927
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
+    },
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    },
+    {
+      "id_sptag": "1211227273",
+      "key_sptag": "isGirlEyesYellowAnime",
+      "name_sptag": "Girls Eyes Yellow",
+      "total": 6605
+    },
+    {
+      "id_sptag": "-1436512555",
+      "key_sptag": "isDarkBlack",
+      "name_sptag": "Dark Black",
+      "total": 4051
+    },
+    {
+      "id_sptag": "126637389",
+      "key_sptag": "isGirlSadAnime",
+      "name_sptag": "Girls Sad",
+      "total": 10506
+    },
+    {
+      "id_sptag": "-120608061",
+      "key_sptag": "isGirlHairOrangeAnime",
+      "name_sptag": "Girls Hair Orange",
+      "total": 4128
+    },
+    {
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
+    },
+    {
+      "id_sptag": "-143380300",
+      "key_sptag": "isGirlHairGreyAnime",
+      "name_sptag": "Girls Hair Grey",
+      "total": 9239
+    },
+    {
+      "id_sptag": "1429721863",
+      "key_sptag": "isGirlHornsAnime",
+      "name_sptag": "Girls Horns",
+      "total": 2031
+    },
+    {
+      "id_sptag": "-298695861",
+      "key_sptag": "isGirlWeddingAnime",
+      "name_sptag": "Girls Wedding",
+      "total": 2328
+    },
+    {
+      "id_sptag": "-143162340",
+      "key_sptag": "isGirlHairRedAnime",
+      "name_sptag": "Girls Hair Red",
+      "total": 3081
+    },
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
+      "id_sptag": "-369386728",
+      "key_sptag": "isGirlMaidAnime",
+      "name_sptag": "Girls Maid",
+      "total": 2625
+    },
+    {
+      "id_sptag": "1129122964",
+      "key_sptag": "isGirlEyesVioletAnime",
+      "name_sptag": "Girls Eyes Violet",
+      "total": 6410
     },
     {
       "id_sptag": "-574884551",
@@ -11367,10 +11277,100 @@
       "total": 1338
     },
     {
+      "id_sptag": "-14067806",
+      "key_sptag": "isGirlHairSilverAnime",
+      "name_sptag": "Girls Hair Silver",
+      "total": 16300
+    },
+    {
+      "id_sptag": "410439701",
+      "key_sptag": "isGirlEarsNekoAnime",
+      "name_sptag": "Girls Ears Neko",
+      "total": 7031
+    },
+    {
+      "id_sptag": "-1415763167",
+      "key_sptag": "isGirlGlassesAnime",
+      "name_sptag": "Girls Glasses",
+      "total": 2385
+    },
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "-1786946560",
+      "key_sptag": "isGirlHair2ColorAnime",
+      "name_sptag": "Girls Hair 2 Color",
+      "total": 1686
+    },
+    {
+      "id_sptag": "1434519004",
+      "key_sptag": "isGirMusicAnime",
+      "name_sptag": "Girls Music",
+      "total": 1611
+    },
+    {
+      "id_sptag": "71899412",
+      "key_sptag": "isGirlHairVioletAnime",
+      "name_sptag": "Girls Hair Violet",
+      "total": 2650
+    },
+    {
+      "id_sptag": "-1782893951",
+      "key_sptag": "isGirlEyesBrownAnime",
+      "name_sptag": "Girls Eyes Brown",
+      "total": 9376
+    },
+    {
+      "id_sptag": "-1743477818",
+      "key_sptag": "isGirlWaterRainAnime",
+      "name_sptag": "Girls Water Rain",
+      "total": 2954
+    },
+    {
+      "id_sptag": "-369710484",
+      "key_sptag": "isGirlBellAnime",
+      "name_sptag": "Girls Bell",
+      "total": 927
+    },
+    {
+      "id_sptag": "-271320563",
+      "key_sptag": "isGirlFaceMasksAnime",
+      "name_sptag": "Girls Face Masks",
+      "total": 1618
+    },
+    {
+      "id_sptag": "82870",
+      "key_sptag": "isSad",
+      "name_sptag": "Sad",
+      "total": 12057
+    },
+    {
+      "id_sptag": "-135339788",
+      "key_sptag": "isGirlHairWhiteAnime",
+      "name_sptag": "Girls Hair White",
+      "total": 8666
+    },
+    {
+      "id_sptag": "1443397502",
+      "key_sptag": "isGirlWitchAnime",
+      "name_sptag": "Girls Witch",
+      "total": 8338
+    },
+    {
       "id_sptag": "1174054007",
       "key_sptag": "isGirlArt3DAnime",
       "name_sptag": "Girls Art 3D",
       "total": 151
+    },
+    {
+      "id_sptag": "679383692",
+      "key_sptag": "isGirlKimonoAnime",
+      "name_sptag": "Girls Kimono Yukata Cheongsam",
+      "total": 7942
     }
   ]
 }
